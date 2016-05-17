@@ -2,7 +2,7 @@
 23123
 12312312
 213123
-<<<<<<< HEAD
+
 fgg
 gdfg
 dfgdfg
@@ -16,7 +16,7 @@ fdg
 fdg
 dog
 fdg
-=======
+
 k
 k
 k
@@ -27,4 +27,4 @@ k
 k
 k
 k
->>>>>>> 76538dd58fa4434c1a9f8ad33b70aa144e15ed61
+
